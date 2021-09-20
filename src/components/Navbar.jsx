@@ -8,7 +8,7 @@ const Navbar = () => {
           <a>Messages</a>
         </div>
         <div>
-          <a>News1</a>
+          <a>News</a>
         </div>
         <div>
           <a>Music</a>
@@ -16,7 +16,6 @@ const Navbar = () => {
         <div>
           <a>Settings</a>
         </div>
-
       </nav>
     ) 
 }
