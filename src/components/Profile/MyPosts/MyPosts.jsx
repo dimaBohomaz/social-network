@@ -4,7 +4,7 @@ import Post from "./Post/Post";
 const MyPosts = () => {
   let postsData = [
     { id: 1, message: "Hi,how are you?",amountLikes : "15" },
-    { id: 2, message: "It's my first post", amountLikes: "10" },
+    { id: 2, message: "It's my first post", amountLikes: "11" },
   ]
   return (
     <div className={s.postsBlock}>
