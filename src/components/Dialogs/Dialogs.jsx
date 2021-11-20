@@ -34,7 +34,7 @@ const Dialogs = (props) => {
     <div className={s.dialogs}>
       <div className={s.dialogsItems}>
         {
-          ['hi', 'it is me', 'the cheking','ok']
+          ['hi', 'it is me', 'the cheking']
         }
         {/* <DialogItem name={dialogsData[0].name} id={dialogsData[0].id} className={s.dialog}/>
         <DialogItem name={dialogsData[1].name} id={dialogsData[1].id} /> */}
